@@ -2,8 +2,8 @@
 <project-module
   type="WEB"
   name="RetailSystem"
-  id="myeclipse.1466327795062"
-  context-root="/TheClient"
+  id="myeclipse.1467637546300"
+  context-root="/RetailSystem"
   j2ee-spec="5.0"
   archive="RetailSystem.war">
   <attributes>
